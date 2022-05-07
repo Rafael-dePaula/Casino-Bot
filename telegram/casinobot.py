@@ -1,6 +1,6 @@
 from telebot import TeleBot, types
 from database.pantry import Pantry
-TOKEN = '5387669598:AAEqp7AMKM9fJMnmsVnO6eQRZfLhdGejNMU'
+TOKEN = ''
 
 
 class CasinoBot(TeleBot):
